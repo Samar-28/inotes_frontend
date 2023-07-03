@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/inotes_frontend/static/css/main.94e20b12.css",
+    "main.js": "/inotes_frontend/static/js/main.67383aa8.js",
+    "static/media/plus-icon-plus-math-icon-download-icons-9.png": "/inotes_frontend/static/media/plus-icon-plus-math-icon-download-icons-9.3f7814da9b4063397222.png",
+    "index.html": "/inotes_frontend/index.html",
+    "main.94e20b12.css.map": "/inotes_frontend/static/css/main.94e20b12.css.map",
+    "main.67383aa8.js.map": "/inotes_frontend/static/js/main.67383aa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94e20b12.css",
+    "static/js/main.67383aa8.js"
+  ]
+}
